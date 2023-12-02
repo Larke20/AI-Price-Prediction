@@ -51,7 +51,7 @@ See here for more information about the [course project][project]
 1. Clone the repository in a `VS_Code` folder : 
 
 ```bash
-/Your/User/Path/VS_Code/ % git clone https://github.com/hkaiserteaching/csc3380-fall-2023-project-group-3.git
+/Your/User/Path/VS_Code/ % git clone https://github.com/Larke20/AI-Price-Prediction.git
 
 /Your/User/Path/VS_Code/ % cd csc3380-fall-2023-project-group-3
 ```
