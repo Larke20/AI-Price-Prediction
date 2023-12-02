@@ -53,7 +53,7 @@ See here for more information about the [course project][project]
 ```bash
 /Your/User/Path/VS_Code/ % git clone https://github.com/Larke20/AI-Price-Prediction.git
 
-/Your/User/Path/VS_Code/ % cd csc3380-fall-2023-project-group-3
+/Your/User/Path/VS_Code/ % cd AI-Price-Prediction
 ```
 
 2. Run the `setup_and_run.sh` Script
