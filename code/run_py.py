@@ -10,7 +10,7 @@ if len(sys.argv) < 2:
 #user_path = "/Users/rileyoest/VS_Code/"
 user_path = get_path()
 
-env_name = f"{user_path}csc3380-fall-2023-project-group-3/env"
+env_name = f"{user_path}AI-Price-Prediction/env"
 script_name = sys.argv[1]
 script_args = " ".join(sys.argv[2:])
 
