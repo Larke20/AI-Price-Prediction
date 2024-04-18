@@ -56,9 +56,9 @@ See here for more information about the [course project][project]
 /Your/User/Path/VS_Code/ % cd AI-Price-Prediction
 ```
 
-2. Run the `setup_and_run.sh` Script
+2. Change the directory to navigate to in `setup_and_run.sh` to your correct paths located on lines (4, 14, 17, and 27) in the script.
 
-3. Change the directory to navigate to in `setup_and_run.sh` (line 4, 14, 17, and 27)
+3. Run the `setup_and_run.sh` Script
 
 4. Give the script execution permission:
 
