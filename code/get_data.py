@@ -5,15 +5,14 @@ import sys  # Import sys to get command line arguments
 from get_path import *
 import yfinance as yf
 
-#API_KEY = "PKHL949M71P5B43DNVKX"
-#SECRET_KEY = "tI2AoMbdQD7XjCEMIVsRrDi8gVW6vTYWkku8MsT2"
+
 
 user_path = get_path()
 DIRECTORY_TO_DATA = f"{user_path}AI-Price-Prediction/data"
 
 if __name__ == '__main__':
     # using alpaca
-    #api = alpaca.REST(API_KEY, SECRET_KEY, 'https://paper-api.alpaca.markets', api_version = 'v2')
+   
     
     # Assign command line arguments to variables
     ticker = sys.argv[1] if len(sys.argv) > 1 else 'TSLA'
